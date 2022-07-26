@@ -1,0 +1,8 @@
+---
+config:
+  tables:
+    user: "Cytobank-PrTiConfigUserTable"
+    project: "Cytobank-PrTiConfigProjectTable"
+    collect_record: "Cytobank-PrTiCollectRecordTable"
+  github:
+    access_token: <ACCESS_TOKEN>
